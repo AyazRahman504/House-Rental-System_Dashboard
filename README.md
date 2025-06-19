@@ -86,10 +86,13 @@ Forecasts were built using Power BI’s **Analytics pane** → **Forecast line**
 
 ---
 
-## 🖼️ Report Snapshot
+## 🖼️ Report Snapshots
 
-![Report Page](https://github.com/AyazRahman504/House-Rental-System_Dashboard/blob/main/Assets/dashboard%201.png)
-<!-- Replace the image URL with your actual uploaded image in your GitHub repo -->
+### General Analysis Page
+![Dashboard 1]([Assets/dashboard%201.png](https://github.com/AyazRahman504/House-Rental-System_Dashboard/blob/main/Assets/dashboard%201.png))
+
+### Prediction of Next 3 Quarters
+![Dashboard 2]([Assets/dashboard%202.png](https://github.com/AyazRahman504/House-Rental-System_Dashboard/blob/main/Assets/dashboard%202.png))
 
 ---
 
