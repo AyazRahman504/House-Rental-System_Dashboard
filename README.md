@@ -105,10 +105,3 @@ Forecasts were built using Power BI’s **Analytics pane** → **Forecast line**
 
 ---
 
-## 📚 Tech Stack
-
-- `Power BI Desktop`
-- `Kaggle Datasets`
-- `DAX`
-- `Data Cleaning & Transformation`
-- `Forecasting`
